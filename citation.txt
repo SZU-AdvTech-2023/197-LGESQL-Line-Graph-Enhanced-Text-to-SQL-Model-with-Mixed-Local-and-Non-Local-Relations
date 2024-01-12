@@ -1,0 +1,6 @@
+@article{REPO197,
+    author = "Cao, Ruisheng and Chen, Lu and Chen, Zhi and Zhao, Yanbin and Zhu, Su and Yu, Kai",
+    journal = "arXiv preprint arXiv:2106.01093",
+    title = "{LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations}",
+    year = "2021"
+}
